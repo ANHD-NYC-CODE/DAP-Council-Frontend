@@ -72,7 +72,7 @@
     "react-bootstrap-table2-paginator": "2.0.7",
     "react-bootstrap-table2-toolkit": "1.4.2",
     "react-bootstrap-toggle": "^2.3.2",
-    "react-dev-utils": "^7.0.5",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.14.0",
     "react-ga": "^2.7.0",
     "react-helmet": "^5.2.1",
